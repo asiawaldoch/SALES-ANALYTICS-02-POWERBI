@@ -335,3 +335,26 @@ For Account Managers generating lower revenue, additional analysis should be con
 
 Furthermore, the analysis suggests that some of the highest-performing Account Managers are responsible for several of the company's largest customers. This may partially explain their stronger revenue performance and indicates that results are influenced not only by individual performance but also by the value and composition of assigned customer portfolios.
 Finally, management should focus on providing ongoing support, coaching, and development opportunities to ensure that all Account Managers have the resources required to maximise customer value and contribute to long-term revenue growth.
+
+## <h1 align="center">Project Continuation</h1>
+
+The analysis identified several important factors:
+
+1. "Komputery" category emerged as the strongest-performing product category, generating the highest revenue (18,85M) and profit (5,45M). Despite having the lowest number of transactions, the category achieved the best financial results, suggesting higher average order values.
+2. "Ergonomia" and "Monitory" sub-category proved to be the most important sub-categories, generating the highest revenue among all analysed product groups. These areas represent significant growth opportunities for future product development and marketing activities.
+3. "Online" channel was the most effective sales channel, producing the highest revenue and profit. The findings suggest that continued investment in digital sales capabilities may deliver additional growth.
+4. Revenue demonstrated seasonal fluctuations, with February consistently recording the lowest performance in both analysed years. This indicates a recurring seasonal slowdown that may require targeted promotional activities.
+5. Cancellation rates remained high across all product categories, ranging from approximately 46% to 50% of completed transactions. Since the pattern is visible across all categories, the root cause may be related to broader operational or customer-experience issues rather than individual products.
+6. The company benefits from a diversified customer portfolio, with no single customer representing a disproportionate share of total revenue. At the same time, purchasing behaviour differs significantly among key customers, highlighting the importance of personalised account management.
+7. Regional performance remains relatively balanced, with only minor differences between regions. While the "Północ" region achieved the strongest results, no region substantially outperformed or underperformed the others.
+8. Revenue differences between Account Managers were relatively small, suggesting a balanced distribution of customer portfolios. The analysis also indicates that access to larger customer accounts may partially explain the performance of the highest-performing Account Managers.
+
+## <h1 align="center">Key Conclusions</h1>
+
+The company should prioritize investments in high-performing product segments, particularly "Komputery" category and "Ergonomia" and "Monitory" sub-categories. At the same time, management should focus on understanding the causes of high cancellation rates, as this appears to be one of the most significant operational challenges identified during the analysis.
+
+Further investigation should be conducted into the performance of stores located in the West region to determine whether operational, market, or customer-related factors are limiting growth. The company should also continue developing its online sales channel while implementing more personalized strategies for key customer accounts and Account Managers.
+
+Overall, the analysis indicates that the business operates on a stable and diversified foundation, with opportunities for growth concentrated in product portfolio optimization, online sales development, customer relationship management, and operational efficiency improvements.
+
+
