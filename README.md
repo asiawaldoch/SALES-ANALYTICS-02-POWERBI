@@ -11,10 +11,8 @@ This project presents a sales performance analysis developed in Power BI using a
 The report was built on a star schema data model and includes multiple analytical perspectives, covering:
 
 ##	Sales Performance Overview
-  
-<p align="center">
-  <img src="images/performance.png" alt="performance">
-</p>
+
+
 
 ##	Product Performance Analysis
 
