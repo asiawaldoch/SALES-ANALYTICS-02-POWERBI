@@ -12,8 +12,6 @@ The report was built on a star schema data model and includes multiple analytica
 
 ##	Sales Performance Overview
 
-
-
 ##	Product Performance Analysis
 
 <p align="center">
