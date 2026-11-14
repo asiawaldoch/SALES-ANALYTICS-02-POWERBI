@@ -2,7 +2,7 @@
 
 This repository contains the data analysis phase of the PowerQuery project. Data cleaning and preparation were completed in a separate repository during the previous stage.
 
-🔗 Previous stage: [POWERQUERY-DATA-CLEANING](https://github.com/asiawaldoch/POWERQUERY-DATA-CLEANING)
+🔗 Previous stage: [SALES-ANALYTICS-01-POWERQUERY](https://github.com/asiawaldoch/SALES-ANALYTICS-01-POWERQUERY)
 
 ## Technologies: Power Query, Power BI, DAX, Data Modeling
 
