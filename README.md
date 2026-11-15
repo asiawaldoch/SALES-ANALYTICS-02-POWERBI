@@ -12,6 +12,9 @@ The report was built on a star schema data model and includes multiple analytica
 
 ##	Sales Performance Overview
 
+<p align="center">
+  <img src="images/perf.png" alt="perf">
+</p>
 
 ##	Product Performance Analysis
 
