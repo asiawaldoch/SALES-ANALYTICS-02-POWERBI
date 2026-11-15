@@ -338,7 +338,7 @@ For Account Managers generating lower revenue, additional analysis should be con
 Furthermore, the analysis suggests that some of the highest-performing Account Managers are responsible for several of the company's largest customers. This may partially explain their stronger revenue performance and indicates that results are influenced not only by individual performance but also by the value and composition of assigned customer portfolios.
 Finally, management should focus on providing ongoing support, coaching, and development opportunities to ensure that all Account Managers have the resources required to maximise customer value and contribute to long-term revenue growth.
 
-## <h1 align="center">Project Continuation</h1>
+## <h1 align="center">Key Conclusions</h1>
 
 The analysis identified several important factors:
 
@@ -351,7 +351,7 @@ The analysis identified several important factors:
 7. Regional performance remains relatively balanced, with only minor differences between regions. While the "Północ" region achieved the strongest results, no region substantially outperformed or underperformed the others.
 8. Revenue differences between Account Managers were relatively small, suggesting a balanced distribution of customer portfolios. The analysis also indicates that access to larger customer accounts may partially explain the performance of the highest-performing Account Managers.
 
-## <h1 align="center">Key Conclusions</h1>
+## <h1 align="center">Final Recommondation</h1>
 
 The company should prioritize investments in high-performing product segments, particularly "Komputery" category and "Ergonomia" and "Monitory" sub-categories. At the same time, management should focus on understanding the causes of high cancellation rates, as this appears to be one of the most significant operational challenges identified during the analysis.
 
