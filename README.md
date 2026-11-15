@@ -233,7 +233,9 @@ The company should continue investing in the “Ergonomia” sub-category, as it
 
 “Monitory” sub-category should also remain a strategic focus area. Its revenue performance is almost identical to Ergonomics, indicating strong customer demand and significant growth potential. Product portfolio expansion and continued promotional support could further strengthen results
 
-Although “Audio” currently generates the lowest revenue, it should not be removed based solely on current performance. Additional analysis should be conducted to understand customer demand, product profitability, and market potential. The company may consider testing promotional campaigns, improving product visibility, and evaluating performance over a longer period before making strategic decisions regarding the future of this sub-category.
+Although "Audio" sub-category generates the lowest revenue, its transaction volume remains comparable to other sub-categories. This suggests that lower revenue is driven primarily by lower average selling prices rather than weak customer demand.
+
+Therefore, "Audio" should be treated as a complementary product segment rather than an underperforming one. The company should maintain its presence in this category while exploring opportunities to increase profitability through product bundles, premium product variants, and cross-selling initiatives.
 
 ## Question 5: Which Product Categories Have the Highest Cancellation Rate?
 
